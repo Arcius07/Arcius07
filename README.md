@@ -56,5 +56,3 @@ _Check all projects in my pinned repositories._
 🔗 **LinkedIn:** *https://www.linkedin.com/in/sarthak-thakur-2b9788360/*  
 
 ---
-
-### ⭐ _Open to internship opportunities in AI/ML, Data Science, Web Development, and Python Development._  
